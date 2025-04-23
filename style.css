@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f3f1eb;
+  color: #333;
+}
+
+header {
+  background-color: #3b3a30;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.services, .contact {
+  padding: 2rem;
+}
+
+.services h2, .contact h2 {
+  color: #4b5320;
+}
+
+footer {
+  background-color: #3b3a30;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
